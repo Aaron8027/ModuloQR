@@ -8,11 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+##  Front End y back end 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Se andjunta en este repositorio unn documento de tipo PDF con la información de los datos que se emplearon para el Front End y el Back End. Cabe destacar que para el Front empleamos  el marco de trabajo de Bootsrap para una experiencia mas amigable al usuario al utilizar nuestro modulo y generar el cógigo QR.
 
-## Build
+##  Angular
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
